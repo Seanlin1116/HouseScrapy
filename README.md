@@ -62,7 +62,7 @@ OUTPUT 會存在Downloads檔裡，【 a_lvr_land_a 】【 b_lvr_land_a 】 【 e
 
 詳情請參閱 plvr.py 和item.py和 pipeline.py和 setting.py。
 
-**請注意**執行 `python plvr.py` 時，由於是framework,檔案並不能單獨存在執行。
+**請注意**執行 `scrapy crawl plvr` 時，由於是framework,檔案並不能單獨存在執行。
 ### Spark
 **HouseScrapy_spark.py**為此次spark讀取檔案和轉換JSON，
 
